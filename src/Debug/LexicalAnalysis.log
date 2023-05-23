@@ -1,0 +1,17 @@
+﻿  FiniteStateMachine.cpp
+  InterferenceGraph.cpp
+D:\Faks\IV semestar\OPPISA\Projekat\src\InterferenceGraph.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+D:\Faks\IV semestar\OPPISA\Projekat\src\InterferenceGraph.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+D:\Faks\IV semestar\OPPISA\Projekat\src\InterferenceGraph.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+D:\Faks\IV semestar\OPPISA\Projekat\src\InterferenceGraph.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
+  IR.cpp
+  LexicalAnalysis.cpp
+  LivenesAnalysis.cpp
+  main.cpp
+  SyntaxAnalysis.cpp
+  Token.cpp
+  Generating Code...
+D:\Faks\IV semestar\OPPISA\Projekat\src\SyntaxAnalysis.cpp(117): warning C4715: 'SyntaxAnalysis::getRegPosition': not all control paths return a value
+D:\Faks\IV semestar\OPPISA\Projekat\src\SyntaxAnalysis.cpp(245): warning C4715: 'SyntaxAnalysis::findInstructionPosition': not all control paths return a value
+D:\Faks\IV semestar\OPPISA\Projekat\src\SyntaxAnalysis.cpp(584): warning C4715: 'SyntaxAnalysis::returnAssignedReg': not all control paths return a value
+  LexicalAnalysis.vcxproj -> D:\Faks\IV semestar\OPPISA\Projekat\src\Debug\LexicalAnalysis.exe
